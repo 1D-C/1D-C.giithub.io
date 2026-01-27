@@ -1,5 +1,4 @@
 # Darian-Carrillo.giithub.com
-<!DOCTYPE html>
 <html>
   <head>
     <title>My first web page</title>
@@ -15,6 +14,5 @@
         <li>got me confused</li>
         <li> and its jumbly when i look at the code.</li>
     </ul>
-
 </body>
 </html>
