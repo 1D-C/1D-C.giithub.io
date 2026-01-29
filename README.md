@@ -13,6 +13,4 @@
         <li>why</li>
         <li>got me confused</li>
         <li> and its jumbly when i look at the code.</li>
-    </ul>
-</body>
-</html>
+    </ul></body></html>
