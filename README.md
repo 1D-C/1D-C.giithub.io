@@ -15,4 +15,4 @@ body {
 <h2>A Reflection on 'In Plato's Cave'</h2></body></html>
  <p><a href="http://www.htmldog.com">HTML Dog</a></p>
 
-<p style="color: red">/* use any hex, rgb(), or color name */ /* adjust text color for contrast */</p>
+<p style="color: purple">/* use any hex, rgb(), or color name */ /* adjust text color for contrast */</p>
