@@ -1,6 +1,9 @@
 # Darian-Carrillo.giithub.com
 <html>
-h1 {color: yellow; background-color: blue;}
+h1 {
+    color: #ffc;
+    background-color: #009;
+}
   <head>
     <title>My first web page</title>
 </head>
