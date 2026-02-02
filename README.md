@@ -1,9 +1,6 @@
 # Darian-Carrillo.giithub.com
 <html>
-body {
-  background-color: #f4f4f4; 
-  color: #222;              
-}
+body {background-color: #f4f4f4; color: #222;}
   
   <head>
     <title>My first web page</title>
@@ -11,8 +8,8 @@ body {
 <body>
   <h1>Darian Carrillo</h1>
 <p>headshot here(temp)<p/>
-       <p>Creative statement here</p>
+      <p style="color: purple"> <strong>Darian Carrillo</strong><br> Im a sophmore who is majoring emerging media, I have good crafting skills and I have produced works of crochet such as </p>
 <h2>A Reflection on 'In Plato's Cave'</h2></body></html>
  <p><a href="http://www.htmldog.com">HTML Dog</a></p>
 
-<p style="color: purple">/* use any hex, rgb(), or color name */ /* adjust text color for contrast */</p>
+
