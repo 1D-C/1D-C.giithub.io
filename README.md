@@ -1,7 +1,5 @@
 # Darian-Carrillo.giithub.com
 <html>
-body {background-color: #f4f4f4; color: #222;}
-  
   <head>
     <title>My first web page</title>
 </head>
